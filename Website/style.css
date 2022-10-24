@@ -1,0 +1,40 @@
+:root {
+    font-size: 16px;
+}
+
+body {
+    background-image: url('Back.png');
+}
+
+#logo {
+    width: 300px;
+    height: 300px;
+    background-image: url('Logo.png'); 
+    margin: auto;
+}
+
+#main { 
+    width: auto 0;
+    margin: 10px 100px;
+    padding: 15px 30px;
+    color: white;
+    height: 3600px;
+    background: #616161;
+}
+
+#video {
+    margin: 100px auto 0;
+    padding: 30px;
+    height: 450px;
+    background: white;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.text {
+    margin: 30px auto 0;
+    padding: 30px;
+}
